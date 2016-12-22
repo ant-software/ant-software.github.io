@@ -1,49 +1,109 @@
-exclude: ["README.md", "config.ru", "Gemfile", "Gemfile.lock", "vendor"] # files to exclude
+### GENERAL SETTINGS ###
 
-# Permalinks
-permalink: pretty
-
-# Setup
-url: http://www.particle4dev.com
-
-# Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl: ''
-
+# Site settings
 title: React Viet Nam
+description: "A geek, i ♡ containers, Docker, Golang, Nodejs."
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://www.particle4dev.com"
 
-# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description: >
-  A geek, i ♡ containers, [Docker](https://www.docker.com), [Golang](https://golang.org), [Nodejs](https://nodejs.org/en).
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
-# The tags listed as entries in the sidebar
-sidebar_tags: [react, react-native, redux, webpack, apollostack]
-# sidebar_tags: []
+colors:  #in hex code if not noted else
+  primary: "#00b3fe" #"#F70031" 
+  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#384452" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+  
+  
+### CONTACT SETTINGS ###
 
-# Fallback image and color if not overwritten for tag or post
-image: /public/img/dark.jpg
-color: '#A85641'
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: dribbble
+    url:
+  - title: facebook
+    url:
+  - title: twitter
+    url: 
+  - title: instagram
+    url: 
+  - title: tumblr
+    url: 
+    
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines: 
+    - Some Ave, 987,
+    - 23890, New York,
+    - United States.
+email: hello@solidtheme.com
+tel: +34 8493-4893
 
-author:
-  name: 'Hoang Nam'
-  email: 'particle4dev@gmail.com'
 
-  # Setting social media usernames will add icons at the bottom of the sidebar
-  twitter: particle4dev
-  github: particle4dev
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+    
+# Members information. Shown on About page.
+members:
+  - name: Mark Webber
+    position: CEO
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team01.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Paul Jameson
+    position: Lead Designer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team02.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Laura Sommers
+    position: Lead Developer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team03.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Martin Blunt
+    position: Marketing
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+    
+# Clients information. Shown on Home and About pages.
+clients:
+  - name: dribbble
+    img: client01.png
+  - name: Code is Poetry
+    img: client02.png
+  - name: Vimeo
+    img: client03.png
+  - name: VimeoPro
+    img: client04.png
+    
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
 
-  # Setting a disqus username will enable the comment section
-  disqus: particle4dev
-
-  # This photo will be used in the about section
-  photo: /public/img/flo.jpg
-
-  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:          |
-    Hoang Nam is a software engineer living in Ha Noi, Viet Nam.
-    He does cloudy stuff with computers, currently for [CityMe](https://www.cityme.vn). He love open source projects as much as he loved his job.
-    You can find him on twitter, where he is @particle4dev
-
-kramdown:
-  math_engine: mathjax
-  math_engine_opts:
-    preview: true
+# Testimonial content. Shown on Home and About page. 
+testimonial:
+    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    author: Marcel Newman
+    position: WEB DESIGNER - BLACKTIE.CO
