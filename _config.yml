@@ -26,8 +26,8 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
+  - title: github
+    url: https://github.com/ant-solutions
   - title: facebook
     url:
   - title: twitter
@@ -43,7 +43,7 @@ address:
     - Some Ave, 987,
     - 23890, New York,
     - United States.
-email: hello@solidtheme.com
+email: info@ant-solutions.tech
 tel: +34 8493-4893
 
 
@@ -52,7 +52,7 @@ tel: +34 8493-4893
 # Members information. Shown on About page.
 members:
   - name: Tien Nguyen
-    position: Software Engineer
+    position: Fullstack Engineer
     text: Tien is founder of the React Viet Nam group where are largest and active ReactJS community in Vietnam. He has five years+ talented full stack developer with a wide range of skills from backend to frontend stack. He is an expert on the following skills JavaScript, C#, MySQL, SQL Server, HTML5, CSS3, OOP, AJAX, jQuery, AngularJS, ReactJS, REST APIs design and implementation, software architecture, etc.
     img: team01.jpg
     social:
@@ -60,17 +60,21 @@ members:
         url: mailto:nguyentien8x@gmail.com
       - title: twitter
         url: http://twitter.com/nhtera
+      - title: github
+        url: https://github.com/nhtera
   - name: Nam Hoang
-    position: Software Engineer
-    text: Nam is admin of the React Viet Nam group where are largest and active ReactJS community in Vietnam. He has five years+ talented full stack developer with a wide range of skills from backend to frontend stack. He is an expert on the following skills JavaScript, C#, MySQL, SQL Server, HTML5, CSS3, OOP, AJAX, jQuery, AngularJS, ReactJS, REST APIs design and implementation, software architecture, etc.
+    position: Devops & Fullstack Engineer
+    text: Nam is admin of the React Viet Nam group where are largest and active ReactJS community in Vietnam. He is also a member of the nodejs.org. He has more than five years of experience in software design, development and implementation. Currently he works as a full stack developer and devops at the team. He has strong skill set in JavaScript/Nodejs, ReactJS, REST APIs design and implementation, AWS, Mongodb, Docker, etc.
     img: team02.jpg
     social:
       - title: envelope #use for email address
         url: mailto:particle4dev@gmail.com
       - title: twitter
         url: http://twitter.com/particle4dev
+      - title: github
+        url: https://github.com/particle4dev
   - name: Anh Hoang
-    position: Software Engineer
+    position: Fullstack Engineer
     text: Anh is admin of the React Viet Nam group where are largest and active ReactJS community in Vietnam. He has five years+ talented full stack developer with a wide range of skills from backend to frontend stack. He is an expert on the following skills JavaScript, C#, MySQL, SQL Server, HTML5, CSS3, OOP, AJAX, jQuery, AngularJS, ReactJS, REST APIs design and implementation, software architecture, etc.
     img: team03.jpg
     social:
@@ -78,8 +82,10 @@ members:
         url: mailto:anh.hta88@gmail.com
       - title: twitter
         url: http://twitter.com/hoanganh_dk
+      - title: github
+        url: https://github.com/anhht
   - name: Cuong Tran
-    position: DevOps
+    position: Devops & Fullstack Engineer
     text: Cuong is admin of the Docker Viet Nam group where are largest and active Docker community in Vietnam. He has five years+ talented full stack developer with a wide range of skills from backend to frontend stack. He is an expert on the following skills JavaScript, C#, MySQL, SQL Server, HTML5, CSS3, OOP, AJAX, jQuery, AngularJS, ReactJS, REST APIs design and implementation, software architecture, etc.
     img: team04.jpg
     social:
@@ -87,6 +93,8 @@ members:
         url: mailto:tranhuucuong91@gmail.com
       - title: twitter
         url: http://twitter.com/tranhuucuong91
+      - title: github
+        url: https://github.com/tranhuucuong91
 
 # Clients information. Shown on Home and About pages.
 clients:
