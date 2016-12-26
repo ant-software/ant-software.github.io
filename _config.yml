@@ -52,7 +52,7 @@ tel: +34 8493-4893
 # Members information. Shown on About page.
 members:
   - name: Tien Nguyen
-    position: Fullstack Engineer
+    position: Full Stack developer
     text: Tien is founder of the React Viet Nam group where are largest and active ReactJS community in Vietnam. He has five years+ talented full stack developer with a wide range of skills from backend to frontend stack. He is an expert on the following skills JavaScript, C#, MySQL, SQL Server, HTML5, CSS3, OOP, AJAX, jQuery, AngularJS, ReactJS, REST APIs design and implementation, software architecture, etc.
     img: team01.jpg
     social:
@@ -63,7 +63,7 @@ members:
       - title: github
         url: https://github.com/nhtera
   - name: Nam Hoang
-    position: Devops & Fullstack Engineer
+    position: Devops & Full Stack developer
     text: Nam is admin of the React Viet Nam group where are largest and active ReactJS community in Vietnam. He is also a member of the nodejs.org. He has more than five years of experience in software design, development and implementation. Currently he works as a full stack developer and devops at the team. He has strong skill set in JavaScript/Nodejs, ReactJS, REST APIs design and implementation, AWS, Mongodb, Docker, etc.
     img: team02.jpg
     social:
@@ -74,7 +74,7 @@ members:
       - title: github
         url: https://github.com/particle4dev
   - name: Anh Hoang
-    position: Fullstack Engineer
+    position: Full Stack developer
     text: Anh is admin of the React Viet Nam group where are largest and active ReactJS community in Vietnam. He has five years+ talented full stack developer with a wide range of skills from backend to frontend stack. He is an expert on the following skills JavaScript, C#, MySQL, SQL Server, HTML5, CSS3, OOP, AJAX, jQuery, AngularJS, ReactJS, REST APIs design and implementation, software architecture, etc.
     img: team03.jpg
     social:
@@ -85,7 +85,7 @@ members:
       - title: github
         url: https://github.com/anhht
   - name: Cuong Tran
-    position: Devops & Fullstack Engineer
+    position: Devops & Full Stack developer
     text: Cuong is admin of the Docker Viet Nam group where are largest and active Docker community in Vietnam. He has five years+ talented full stack developer with a wide range of skills from backend to frontend stack. He is an expert on the following skills JavaScript, C#, MySQL, SQL Server, HTML5, CSS3, OOP, AJAX, jQuery, AngularJS, ReactJS, REST APIs design and implementation, software architecture, etc.
     img: team04.jpg
     social:
