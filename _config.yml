@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Ant solution
+title: Ant solutions
 description: "A geek, i ♡ containers, Docker, Golang, Nodejs."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://www.particle4dev.com"
+url: "http://www.ant-solutions.io"
 
 # Build settings
 markdown: kramdown
@@ -108,7 +108,7 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "We are ANT Solution, a team incorporated on December 30th, 2016 by the members who have rich experience in creating software products of high applicability and supplying the same to Japanese, Australia customers."
+about: "We are ANT Solutions, a team incorporated on December 30th, 2016 by the members who have rich experience in creating software products of high applicability and supplying the same to Japanese, Australia customers."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
