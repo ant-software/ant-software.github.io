@@ -75,7 +75,7 @@ members:
         url: https://github.com/particle4dev
   - name: Anh Hoang
     position: Full Stack Developer
-    text: Anh is a Full Stack Developer. He has 5 years of professional (and three more years as hobby) experience in developing mid to large-scale websites and web-applications based on webstandard technologies like JavaScript, C#, MySQL, SQL Server, HTML5, CSS3, OOP, AJAX, jQuery, AngularJS, ReactJS. Anh is a strong team player, works well under pressure and is consumer-focused.
+    text: Anh is a Full Stack Developer. He has 5 years of professional (and three more years as hobby) experience in developing mid to large-scale websites and web-applications based on webstandard technologies like JavaScript, C#, MySQL, SQL Server, HTML5, CSS3, OOP, AJAX, jQuery, AngularJS, ReactJS, etc. Anh is a strong team player, works well under pressure and is consumer-focused.
     img: team03.jpg
     social:
       - title: envelope #use for email address
