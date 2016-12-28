@@ -12,22 +12,22 @@ permalink: /contact/
             <h4>Just Get In Touch!</h4>
             <div class="hline"></div>
                 <p>{{ site.about }}</p>
-                <form role="form">
+                <form role="form" action="https://www.formingo.co/submit/ae84d6e9-ffa8-40e9-bc91-05158ccfc932" method="POST">
                   <div class="form-group">
-                    <label for="InputName1">Your Name</label>
-                    <input type="text" class="form-control" id="exampleInputName1">
+                    <label for="__name">Your Name</label>
+                    <input type="text" class="form-control" name="name" id="__name" required>
                   </div>
                   <div class="form-group">
-                    <label for="InputEmail1">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1">
+                    <label for="__replyto">Email address</label>
+                    <input type="email" class="form-control" name="email" id="__replyto" required>
                   </div>
                   <div class="form-group">
-                    <label for="InputSubject1">Subject</label>
-                    <input type="text" class="form-control" id="exampleInputSubject1">
+                    <label for="__subject">Subject</label>
+                    <input type="text" class="form-control" name="subject" id="__subject" required>
                   </div>
                   <div class="form-group">
-                    <label for="message1">Message</label>
-                    <textarea class="form-control" id="message1" rows="3"></textarea>
+                    <label for="__message">Message</label>
+                    <textarea class="form-control" name="message" id="__message" rows="3" required></textarea>
                   </div>
                   <button type="submit" class="btn btn-theme">Submit</button>
                 </form>
