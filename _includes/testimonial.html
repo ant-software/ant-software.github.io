@@ -1,4 +1,3 @@
-<!--
 <div id="twrap">
     <div id="twrapback"></div>
     <div class="container centered">
@@ -6,10 +5,10 @@
             <div class="col-lg-8 col-lg-offset-2">
             <i class="fa fa-comment-o"></i>
             <p>{{ site.testimonial.message }}</p>
-            <h4><br/>{{ site.testimonial.author }}</h4>
-            <p>{{ site.testimonial.position }}</p>
+            <img src={{ site.testimonial.avatar }} alt={{ site.testimonial.author }} class="img-circle" />
+            <h4>{{ site.testimonial.author }}</h4>
+            <p><a style="color: #fff;" href={{ site.testimonial.site }} target="_blank">{{ site.testimonial.position }}</a></p>
             </div>
         </div>
     </div>
 </div>
--->
