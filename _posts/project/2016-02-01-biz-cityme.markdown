@@ -14,10 +14,13 @@ tagged: Flat, UI, Development
 client: CityMe Vietnam.
 website: https://biz.cityme.vn
 ---
-####CITYME DEALS MANAGER
+
+#### CITYME DEALS MANAGER
+
 Actively create and manage unlimited number of deals.
 Clear and transparent sale & revenue reports.
 Manage local business information with ease.
 
-####Our Proposal
+#### Our Proposal
+
 Build Modern Web Apps with NodeJS, React, ES6 & Webpack. Infrastructure using Docker and AWS for deploying and scaling.
