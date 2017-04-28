@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "Honey"
+date:   2015-10-25 16:54:46
+author: Tien Nguyen
+categories:
+- project
+img: portfolio_16.jpg
+thumb: thumb02.jpg
+carousel:
+- single13.jpg
+tagged: Flat, UI, Development
+client: Fileoptics
+---
+####YOUR PROJECT NAME
+Update HR module of Honey - Workforce management software solutions, HRIS, Careers Website, Job Descriptions, Recruitment, Induction, Training, Performance Management, Health and Safety, Rostering, Time and Attendance, Time Clock, Time Sheeting, Discipline, Employee Self Service, and Multi Geographical.
+
+####Our Proposal
+ASP.NET, Entity Framework, Honey javascript framework.
