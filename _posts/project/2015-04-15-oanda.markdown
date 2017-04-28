@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "OANDA top trader contest"
+date:   2015-10-25 16:54:46
+author: Nam Nguyen Minh
+categories:
+- project
+img: portfolio_14.jpg
+thumb: thumb02.jpg
+carousel:
+- single10.jpg
+- single11.jpg
+tagged: Flat, UI, Development
+client: Oanda
+---
+####YOUR PROJECT NAME
+A competition contest for traders can come and try to get prizes with their trading
+skills. Huge system with complex data logic on trading transactions and graph.
+
+####Our Proposal
+ASP.NET, Entity Framework, SignalR. jQuery, Bootstrap.

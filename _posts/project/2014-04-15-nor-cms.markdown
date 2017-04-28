@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "NOR CMS SYSTEM"
+date:   2014-04-25 16:54:46
+author: Nam Nguyen Minh
+categories:
+- project
+img: portfolio_11.jpg
+thumb: thumb02.jpg
+carousel:
+- single04.jpg
+- single05.jpg
+tagged: Flat, UI, Development
+client: NOR
+---
+####YOUR PROJECT NAME
+A complex CMS system to publish news, which contains multiple services running serparately.
+
+####Our Proposal
+Golang, Oracle, RabbitMQ, Elastic Search. ReactJS, DraftJS, IndexedDB.

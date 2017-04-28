@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "WoS landing page"
+date:   2015-04-25 16:54:46
+author: Nam Nguyen Minh
+categories:
+- project
+img: portfolio_12.jpg
+thumb: thumb02.jpg
+carousel:
+- single06.jpg
+- single07.jpg
+tagged: Flat, UI, Development
+client: QOS
+---
+####YOUR PROJECT NAME
+Unique designing parallax landing page with a simple CMS system for publishing
+company’s news.
+
+####Our Proposal
+NodeJS, MongoDB. jQuery.
